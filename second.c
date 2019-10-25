@@ -2,6 +2,7 @@
 int main()
 {
 int a,b,c;
-
-return 0;
+a=10;b=12;
+c=a+b;
+return c;
 }
